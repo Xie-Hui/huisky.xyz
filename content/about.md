@@ -8,8 +8,6 @@ Hey there! We're Huisky Staking + Mev, a validator supporting Solana's decentral
 
 ### Our Mission
 
-We aim to:
-
 - **Enhance Decentralization**: Spread network control for resilience and security.
 - **Offer Premium Hardware**: Utilize top-of-the-line tech for optimal performance and uptime.
 - **Minimize Downtime**: Ensure reliability with backup machines in different datacenters.

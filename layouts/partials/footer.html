@@ -1,0 +1,24 @@
+<footer class="py-10">
+    <div class="text-center">
+      {{/* Copyright */}}
+      <p class="text-sm text-neutral-500 dark:text-neutral-400">
+        {{- with .Site.Copyright }}
+          {{ . | emojify | markdownify }}
+        {{- else }}
+          &copy;
+          {{ now.Format "2006" }}
+          {{ .Site.Author.name | markdownify | emojify }}
+        {{- end }}
+      </p>
+      <p class="text-xs text-neutral-500 dark:text-neutral-400">
+         Vote Account:  <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+         href="https://stakewiz.com/validator/G1juWDqojmp5CWDhgRqtXrtpAFw9xqhjmEQAKr9faf4V" target="_blank" rel="noopener noreferrer">G1juWDqojmp5CWDhgRqtXrtpAFw9xqhjmEQAKr9faf4V</a>
+      </p>
+
+    </div>
+    {{/* Extend footer - eg. for extra scripts, etc. */}}
+    {{ if templates.Exists "partials/extend-footer.html" }}
+      {{ partialCached "extend-footer.html" . }}
+    {{ end }}
+  </footer>
+  
