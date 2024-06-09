@@ -1,0 +1,4 @@
+baseURL = 'https://huisky.xyz/'
+languageCode = 'en-us'
+title = 'Huisky Staking + Mev'
+theme = 'lynx'

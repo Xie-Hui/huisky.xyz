@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huisky Staking &#43; Mev</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Huisky Staking &#43; Mev</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jun 2024 18:39:58 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 08 Jun 2024 18:39:58 -0700</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 08 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hey there! We&amp;rsquo;re Huisky Staking + Mev, a validator supporting Solana&amp;rsquo;s decentralization and adoption from Vancouver, Canada. Our goal is to be a top-performance validator with premium hardware and minimal commission. We&amp;rsquo;re passionate about Solana and its potential to change the world.&#xA;Our Mission We aim to:&#xA;Enhance Decentralization: Spread network control for resilience and security. Offer Premium Hardware: Utilize top-of-the-line tech for optimal performance and uptime. Minimize Downtime: Ensure reliability with backup machines in different datacenters.</description>
+    </item>
+    <item>
+      <title>Hardware and Datacenter</title>
+      <link>http://localhost:1313/hardwares/</link>
+      <pubDate>Sat, 08 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hardwares/</guid>
+      <description>Main Server CPU: AMD EPYC 9354P 32-Core@ 3.25GHz Memory: 384GB 4800MHz Storage: 1 x 960GB NVMe SSD 2 x 1.9TB NVMe SSD Network: 10 Gbps Fibre Backup Server CPU: AMD EPYC 9254 24-Core@ 2.9GHz Memory: 384GB 4800MHz Storage: 2 x 1TB NVMe SSD 2 x 4TB NVMe SSD Network: 10 Gbps Fibre Datacenter Location and Connectivity ASN: 63213 Internet: 1Gb/s symmetric burstable to 10Gb/s Colocation: Located in Vancouver with UPS, diesel generator, chilled-loop HVAC, two-phase fire suppression, digital cameras, and keyscan controlled access systems.</description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/security/</link>
+      <pubDate>Sat, 08 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/security/</guid>
+      <description>Security At Huisky Staking + Mev, we prioritize security to ensure the reliability and trustworthiness of our staking operations. Here are the key measures we have implemented:&#xA;Hot Swap Backup Server We have a hot swap backup server ready to take over in case of emergencies. This ensures that our services continue without interruption even if our main server encounters an issue.&#xA;Zero Downtime Upgrade Our infrastructure is designed to allow for zero downtime upgrades.</description>
+    </item>
+    <item>
+      <title>Stakewiz Metrics</title>
+      <link>http://localhost:1313/metrics/</link>
+      <pubDate>Sat, 08 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/metrics/</guid>
+      <description>You can view the embedded website below:</description>
+    </item>
+  </channel>
+</rss>
